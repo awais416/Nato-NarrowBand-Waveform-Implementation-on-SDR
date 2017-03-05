@@ -1,0 +1,2 @@
+# Nato-NarrowBand-Waveform-Implementation-on-SDR
+To design an optimum transceiver using Continuous Phase Modulation (CPM).  The bandwidth given in specification was 25kH and data rate to achieve was up to 96Kbps on synthetic data. Transmitter Involved quantization, encryption, and modulation. Complete Matlab simulation of a transceiver. Programmed transmitter to C Language for DSP and receiver in Verilog for FPGA.  An optimum receiver designed using Viterbi algorithm &amp; MLSE. Involved decryption and demod. 
