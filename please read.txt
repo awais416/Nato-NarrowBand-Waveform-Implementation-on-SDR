@@ -1,2 +1,0 @@
-install matlab program and run this
-sent bits will be received succesfully
