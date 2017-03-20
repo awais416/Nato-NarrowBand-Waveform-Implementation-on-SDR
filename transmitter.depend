@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463219772 source:h:\uni projects\final year project\new c code\transmitter\main.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+

@@ -1,5 +1,1 @@
-install matlab program and run maincode.m file 
-sent bits will be received succesfully
-
-There are 2 rar files. One of them is the transmitter implementated in c language and other rar file is the receiver 
-implemented in verilog.Run the receiver on by installing Xilinx and transmiited on any compiler that supports C lang.
+install any c compiler (code blocks preffered and run the code by clickicking transmitter.cbp file)
